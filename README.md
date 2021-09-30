@@ -10,7 +10,7 @@ Software conformance ensures predictability and helps protect the Argo brand.
 # Goals
 * Ensure a consistent and reliable user experience and API compatibility 
 * Protect the Argo brand
-* Enable contributions from commercial partners
+* Ensure contributions from commercial partners
 * To grow and strengthen the Argo community
 
 # Benefits of Certification
