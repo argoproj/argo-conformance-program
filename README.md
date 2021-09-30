@@ -8,10 +8,10 @@ When users use an Argo certified offering they should be able to trust that offe
 Software conformance ensures predictability and helps protect the Argo brand. 
 
 # Goals
-* Ensure a consistent and reliable user experience and API compatibility 
+* Guarantee a consistent and reliable user experience and API compatibility 
 * Protect the Argo brand
 * Ensure contributions from commercial partners
-* To grow and strengthen the Argo community
+* Grow and strengthen the Argo community
 
 # Benefits of Certification
 In addition to giving users confidence and protecting the Argo community certified offerings may
