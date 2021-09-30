@@ -17,4 +17,4 @@ Software conformance ensures predictability and helps protect the Argo brand.
 In addition to giving users confidence and protecting the Argo community certified offerings may
 * Advertise compliance and certification
 * Use Argo logo and branding in marketing materials
-* Preference in community and marketing events etc.
+* Exposure to community
