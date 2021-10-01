@@ -21,3 +21,8 @@ In addition to giving users confidence and protecting the Argo community certifi
 * Advertise compliance and certification
 * Use Argo logo and branding in marketing materials
 * Exposure to community
+
+# Benefits to Community
+* Promote interoperability and compatibility between Argo products
+* Discourage forking of the Argo code base
+* Encourage commercial interests to work together to grow the Argo ecosystem rather than purely on competition with each other
