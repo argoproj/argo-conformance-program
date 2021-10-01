@@ -1,7 +1,7 @@
 Status: Currently in draft and non-binding. 
 
 # Argo Conformance Program
-The Argo community continues to grow dramatically – adding new users, new contributors, and new capabilities. The Argo Conformance Program creates incentives and requriements designed to help the ecosystem grow in a sustainable and user-friendly way. As a diverse set of tools grows around Argo, users need to know when they can they can trust these tools to work together and in a predictable way.
++The Argo community continues to grow dramatically – adding new users, new contributors, and new capabilities. The Argo Conformance Program creates incentives and requirements designed to help the ecosystem grow in a sustainable and user-friendly way. As a diverse set of tools grows around Argo, users can trust that products certified as compliant will interoperate with each other and be up-to-date with the latest open source releases. This ensures a consistent user experience between products and flexibility to choose between vendors.
 
 When users use an Argo certified offering they should be able to trust that offering to work with the open source versions of Argo and that configuration designed for Argo will always work.
 
