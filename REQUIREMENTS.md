@@ -12,5 +12,5 @@
 * Member company maintains X maintainer(s) within the Argo org. See [Maintainers](https://github.com/argoproj/argoproj/blob/master/MAINTAINERS.md)
 * Confirm through self-testing the offering is compatible with target project version
 * Provider will maintain offering with latest versions within X months of project release.
-* Offering must include option for accessing the default UI with only minor modificaitons.
+* Offering must include the option for accessing the default UI without modifications beyond each project's built-in extensions and customization systems.
 * Argo branding must be left intact in UI when accessed
