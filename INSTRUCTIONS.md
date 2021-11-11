@@ -26,6 +26,7 @@ Contains the logs from running tests.
 |--|--|
 | `vendor` | Name of the legal entity certifying. |
 | `name` | Name of the product offering certifying |
+| `contact` | Email contact of the product offering certifying |
 |`version`|The version of the product being certified, (not the Argo project version it runs).|
 |`website_url`|URL to the product information|
 | `repo_url` | If your product is open source, this field is necessary to point to the primary GitHub repo containing the source. It's OK if this is a mirror. OPTIONAL |
