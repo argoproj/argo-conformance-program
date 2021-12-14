@@ -17,9 +17,11 @@ $project/vX.Y/$offering/PRODUCT.yaml
 
 #### README.md
 Contacts instructions for how to reproduce the test result, including how to obtain the offering. e.g. offering-cli create argo-cd etc.
+Information about the system the tests has being run on (e.g. Dockerfile or OS info with CPU and RAM)
 
 #### e2e.log
-Contains the logs from running tests.
+Contains the logs from SUCCESSFULLY running tests.  
+To avoid tests flakiness there are should be results of at least 5 tests running
 
 #### PRODUCT.yaml
 | Field | Description | 
