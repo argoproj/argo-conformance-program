@@ -1,6 +1,6 @@
 vendor: Codefresh
 name: Argo-Events
-contact: ?????????
+contact: support@codefresh.io
 version: v1.5.5-cap-CR-8461
 website_url: argoproj.github.io/argo-events/
 repo_url: https://github.com/codefresh-io/argo-events
