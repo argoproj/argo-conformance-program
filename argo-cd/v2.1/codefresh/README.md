@@ -4,7 +4,7 @@
 2. install codefresh argo cd distribution on a k8s cluster
 
 ```
-kubectl create namespace argocd
+kubectl create namespace argocd-e2e
 kubectl apply -n argocd -f https://raw.githubusercontent.com/codefresh-io/argo-cd/release-2.1/manifests/install.yaml
 ```
 
