@@ -1,11 +1,11 @@
 # Guide of how to run e2e
 
-1. create a new k8s cluster (can be any dsitribution)
-2. install codefresh argo cd distribution on a k8s cluster
+1. Create a new K8s cluster (can be any distribution)
+2. Install Codefresh Argo CD Distribution
 
 ```
 kubectl create namespace argocd-e2e
 kubectl apply -n argocd -f https://raw.githubusercontent.com/codefresh-io/argo-cd/release-2.1/manifests/install.yaml
 ```
 
-3. follow the official guide of argo cd for e2e execution: https://argo-cd.readthedocs.io/en/stable/developer-guide/test-e2e/
+3. Follow the official guide of Argo CD for e2e execution: https://argo-cd.readthedocs.io/en/stable/developer-guide/test-e2e/
