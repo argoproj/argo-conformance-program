@@ -1,0 +1,10 @@
+vendor: Codefresh
+name: Argo-Events
+contact: support@codefresh.io
+version: v1.5.5-cap-CR-8461
+website_url: https://argoproj.github.io/argo-events/
+repo_url: https://github.com/codefresh-io/argo-events
+documentation_url: https://argoproj.github.io/argo-events/#documentation
+product_logo_url: https://g.codefresh.io/2.0/assets/images/logo.svg
+type: hosted platform
+description: Investigate memory issues and "eventbus connection closed" errors on workflow-reporter-eventsource replicas

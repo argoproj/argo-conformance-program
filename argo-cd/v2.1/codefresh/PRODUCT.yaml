@@ -1,0 +1,11 @@
+vendor: Codefresh
+name: Argo-CD
+contact: support@codefresh.io
+version: v2.1.3-cap-CR-6338
+website_url: https://argo-cd.readthedocs.io/
+repo_url: https://github.com/codefresh-io/argo-cd
+documentation_url: https://argo-cd.readthedocs.io/en/stable/
+product_logo_url: https://g.codefresh.io/2.0/assets/images/logo.svg
+type: hosted platform
+description: ArgoCD enterprise GHA build - verify successfulness of changes to GitHub Actions
+pipeline_result_url: https://github.com/codefresh-io/argo-cd/runs/4691172364?check_suite_focus=true
